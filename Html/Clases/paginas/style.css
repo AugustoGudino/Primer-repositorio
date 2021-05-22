@@ -1,0 +1,29 @@
+*{
+    font-family: 'PT Serif', serif;
+     font-weight: 100;
+     background-color: burlywood;
+}
+
+h1{
+    color:blue;
+
+
+}
+h2{
+      background-color: cadetblue;
+      
+
+    
+
+}
+
+
+img{
+        width: 200px;
+        height: auto;
+        border: crimson, 5px;
+        outline: black ,10px;
+   
+
+
+}
